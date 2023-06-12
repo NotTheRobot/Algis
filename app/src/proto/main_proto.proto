@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "com.example.algis";
+option java_multiple_files = true;
+
+message AccountProto {
+ string fullName = 1;
+ string jobPlace = 2;
+ string jobTitle = 3;
+ string divisionCode = 4;
+ string phone = 5;
+ string bossFullName = 6;
+ string INN = 7;
+ string SNILS = 8;
+ string personalNumber = 9;
+ string birthDate = 10;
+}

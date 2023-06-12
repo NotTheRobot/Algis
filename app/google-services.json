@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716772630428",
+    "firebase_url": "https://algis-a1e5c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "algis-a1e5c",
+    "storage_bucket": "algis-a1e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716772630428:android:01b49da62f7b2393fa3259",
+        "android_client_info": {
+          "package_name": "com.example.algis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716772630428-tf5fnj1l1oppu0q0labo7l1gvbjl0gtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKEYa44o40wb76auf2PGt8DfeqkkFBx8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716772630428-tf5fnj1l1oppu0q0labo7l1gvbjl0gtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
